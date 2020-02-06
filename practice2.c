@@ -20,20 +20,11 @@ Description:	below
 
 #include <stdio.h>
 
-int main(int argc, char ** argv) {
-    int integer;
-    integer = 10;
-    int *points_to_integer;
-    points_to_integer = &integer;
-    
-
-	unsigned long sum;
-	sum = 0;	
-
-	for (int i = 1; i <= 10000000; ++i)
-		sum = sum + i;
-
-	printf("The final value is %lu ", sum);
-
-	return 0;
+int main() {
+    int integer = 10;
+    printf("%d", integer);
+    int* points_to_integer = &integer;
+    *points_to_integer = 12;
+    printf("%d",integer);
+    return 0;
 }
