@@ -1,1 +1,6 @@
-# cs392 at Stevens Institute of Technology; Working in C
+# CS392
+## Taken at Stevens Institute of Technology
+This course is taught in C and Bash is taught in this course as well. This repository is sorted as the following:
+- Practices
+- Homework
+- Extra
