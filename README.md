@@ -4,6 +4,7 @@ This course is taught in C and Bash is taught in this course as well. This repos
 - Practices -> 
   - practice2.c: Basic C
   - task3.c: Writing into a specific byte at a file
+  - cs392_sum.c: Creating a dynamic library practice
 - Homework ->
   - hw1: Creating your own printf function in c
 - Extra -> n/a
