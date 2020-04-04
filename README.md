@@ -14,4 +14,3 @@ This course is taught in C and Bash is taught in this course as well. This repos
 - [Reverse a string in place in C](midterm/task1.c): reverse a string in place in C.
 - [Sort a string array Using Your Own String Compare](midterm/task2.c): sort a string array without using APIs and create your own version of string compare. 
 - [Utilizing a Class Structure](midterm/task3.c): read from a file and use the data structure given to put the appropriate data in the appropriate fields. 
-#### If you steal my code, we are both going to get a 0. I would truly prefer not to get a zero. So don't try to submit my code.
