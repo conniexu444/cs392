@@ -5,7 +5,7 @@ This course is taught in C and Bash is taught in this course as well. This repos
   - [Basic C](practices/practice2.c)
   - [Writing into a specific byte at a file](practices/task3.c)
   - [Creating a dynamic library practice](practices/cs392_sum)
-  - [Making a fork process in C](practices/cs392_fork)
+  - [Making a fork process in C](practices/cs392_fork): I don't know how to explain this
 ### Homework
   - [hw1](hw/hw1): Creating your own printf function in c
   - [hw2](hw/hw2): 
