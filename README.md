@@ -21,3 +21,7 @@ This course is taught in C and Bash is taught in this course as well. This repos
 - [Reverse a string in place in C](midterm/task1.c): reverse a string in place in C.
 - [Sort a string array Using Your Own String Compare](midterm/task2.c): sort a string array without using APIs and create your own version of string compare. 
 - [Utilizing a Class Structure](midterm/task3.c): read from a file and use the data structure given to put the appropriate data in the appropriate fields. 
+### Final
+- [Find all the errors in this program](final/task1.c): Find at least 8 of the 10 errors in this program written in C.
+- [Implement a two-directional inter-process communication with two pipes](final/task2.c)
+- [Write a program that uses multiple threads to read data and process data from files](final/task3.c)
